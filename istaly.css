@@ -1,0 +1,13 @@
+body{
+    background-color: cornflowerblue;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.heading{
+    background-color: blue;
+    color: darkorange;
+}
+.heading p{
+    font-weight: bold;
+    font-size: 15px;
+}
